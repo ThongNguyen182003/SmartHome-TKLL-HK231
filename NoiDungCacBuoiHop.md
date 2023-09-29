@@ -10,13 +10,6 @@
 * Task 2: Việt
 * Task 3: Thông
 
-
-**Buổi 2:**
-* Chia task tìm hiểu
-* Task 1: Thông
-* Task 2: Việt
-* Task 3: Thông
-
 <div style="text-align:center;">
-    <img src="image/Buoi_2.drawio.png" alt="Buổi 2" width = 50%>
+    <img src="image/Buoi_2.drawio.png" alt="Buổi 2">
 </div>
