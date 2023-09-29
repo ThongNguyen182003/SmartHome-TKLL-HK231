@@ -8,7 +8,7 @@
 *Chia task tìm hiểu*
 * Task 1: Thông
 * Task 2: Việt
-* Task 3: Thông
+* Task 3: Yến
 
 <div style="text-align:center;">
     <img src="image/Buoi_2.drawio.png" alt="Buổi 2">
