@@ -8,7 +8,7 @@
     </head>
     <body>
         <div class="topnav">
-            <h1>SENSOR READINGS (WEBSOCKET)</h1>
+            <h1>Smart Home IOT</h1>
         </div>
         <div class="content">
             <div class="card-grid">
@@ -23,17 +23,12 @@
             </div>
         </div>
         <div class="content">
-            <div class="card-grid">
-                <div class="card">
-                    <p class="card-title"><i class="fas fa-thermometer-threequarters" style="color:#059e8a;"></i> Temperature</p>
-                    <p class="reading"><span id="temperature">%TEMPERATURE%</span> &deg;C</p>
-                </div>
-                <div class="card">
-                    <p class="card-title"> Humidity</p>
-                    <p class="reading"><span id="humidity">%HUMIDITY%</span> &percnt;</p>
-                </div>
+            <div class="card-button">
+              <h2>Output - GPIO 2</h2>
+              <p class="state">state: <span id="state">%STATE%</span></p>
+              <p><button id="button" class="button">Toggle</button></p>
             </div>
-        </div>
+          </div>
         <script src="app.js"></script>
     </body>
 </html>

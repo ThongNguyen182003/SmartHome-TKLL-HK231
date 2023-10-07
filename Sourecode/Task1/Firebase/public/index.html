@@ -1,0 +1,40 @@
+<!-- Complete Project Details at: https://RandomNerdTutorials.com/ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESP Firebase App</title>
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/8.8.1/firebase-database.js"></script>
+
+    <script>
+    // REPLACE WITH YOUR web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyD2cIhatperqaVmk1GeySl0ue_pMY_GhME",
+      authDomain: "smarthome-dc562.firebaseapp.com",
+      databaseURL: "https://smarthome-dc562-default-rtdb.europe-west1.firebasedatabase.app",
+      projectId: "smarthome-dc562",
+      storageBucket: "smarthome-dc562.appspot.com",
+      messagingSenderId: "29332536375",
+      appId: "1:29332536375:web:e9819bb649c78b0387d3b2",
+      measurementId: "G-02EZBEBB3Z"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    var database = firebase.database();
+</script>
+<script src="app.js" defer></script>
+
+</head>
+<body>
+    <h1>ESP32 Firebase Web App Example</h1>
+    <p>Reading int: <span id="reading-int"></span></p>
+    <p>Reading float: <span id="reading-float"></span></p>
+</body>
+</html>
