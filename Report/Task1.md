@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Đọc dữ liệu cảm biến
-**DHT11** 
 
-**Servo Morto**
-=======
 # MQTT and Firebase
 
 
@@ -26,4 +21,4 @@ MQTT (Message Queuing Telemetry Transport) và Firebase là hai công nghệ ph�
    - DHT11: 1 pin.
    - Stepper motor: 4 pins.
    - Led: 1 pin.
->>>>>>> doing
+
