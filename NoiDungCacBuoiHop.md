@@ -13,3 +13,9 @@
 <div style="text-align:center;">
     <img src="image/Buoi_2.drawio.png" alt="Buổi 2">
 </div>
+
+**Buổi 3:** (Deadline: 24/10/2023)
+* Kết quả task của từng người
+* Chia task mới
+* Task 4: Design frontend - Yến
+* Task5: Kết nối tất cả linh kiện lên breadboard - Thông, Việt
