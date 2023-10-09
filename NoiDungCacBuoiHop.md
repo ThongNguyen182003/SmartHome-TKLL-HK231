@@ -15,7 +15,7 @@
 </div>
 
 **Buổi 3:** (Deadline: 24/10/2023)
-* Kết quả task của từng người
+* Kết quả task của từng người. Link host web demo: https://smarthome-dc562.web.app/
 * Chia task mới
 * Task 4: Design frontend - Yến
-* Task5: Kết nối tất cả linh kiện lên breadboard - Thông, Việt
+* Task 5: Kết nối tất cả linh kiện lên breadboard - Thông, Việt
